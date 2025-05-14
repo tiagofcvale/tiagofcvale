@@ -1,4 +1,4 @@
 ## Hi there 👋
 
 
-[![tiagofcvale's GitHub stats](https://github-readme-stats.vercel.app/api?username=tiagofcvale)](https://github.com/tiagofcvale/github-readme-stats)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tiagofcvale&layout=compact)
+[![tiagofcvale's GitHub stats](https://github-readme-stats.vercel.app/api?username=tiagofcvale)](https://github.com/tiagofcvale/github-readme-stats)   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tiagofcvale&layout=compact)

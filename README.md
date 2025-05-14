@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<a href="![tiagofcvale's GitHub stats](https://github-readme-stats.vercel.app/api?username=tiagofcvale&show_icons=true&theme=transparent)">
+<a href="https://github-readme-stats.vercel.app/api?username=tiagofcvale&show_icons=true&theme=transparent">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=tiagofcvale" />
 </a>
 <a href="https://github.com/tiagofcvale/convoychat">

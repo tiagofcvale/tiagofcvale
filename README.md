@@ -15,11 +15,11 @@
 
 ###
 
-<h1 align="center">hello there 👋</h1>
+<h1 align="center">hello world!</h1>
 
 ###
 
-<h3 align="left">👩‍💻  About Me</h3>
+<h3 align="left">About Me...</h3>
 
 ###
 

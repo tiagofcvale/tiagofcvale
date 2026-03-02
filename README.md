@@ -1,4 +1,6 @@
-<div class="tenor-gif-embed" data-postid="26002758" data-share-method="host" data-aspect-ratio="0.85" data-width="100%"><a href="https://tenor.com/view/supertux-speen-tux-rustybox-st-gif-26002758">Supertux Speen GIF</a> <a href="https://tenor.com/search/supertux-gifs">Supertux GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+<div align="center">
+  <img height="150" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3oycXBzNmxkd213aTg0MGtweHBlbmlldGUzbTBicHQ3NzBpanN0NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2aTIUYupFbIviJQOH3/giphy.gif"  />
+</div>
 
 ###
 

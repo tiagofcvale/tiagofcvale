@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="150" src="[https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif](https://tenor.com/view/supertux-speen-tux-rustybox-st-gif-26002758)"  />
+  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
 </div>
 
 ###
@@ -26,7 +26,7 @@
 
 ###
 
-<p align="left">I'm from Porto de Mós studying in DETI <br>- I'm an Informatics Engineering undergraduate </p>
+<p align="left">I'm from Porto de Mós studying in DETI <br>- An Informatics Engineering undergraduate </p>
 
 ###
 

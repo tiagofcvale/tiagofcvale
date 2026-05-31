@@ -25,7 +25,7 @@
 
 ###
 
-<p align="left">I'm from Porto de Mós studying in DETI <br>- An Informatics Engineering undergraduate </p>
+<p align="left">An Informatics Engineering undergraduate </p>
 
 ###
 
